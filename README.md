@@ -1,152 +1,184 @@
-<!-- Prahas Hegde | AI Engineer -->
+<!-- PRAHAS HEGDE // AI ENGINEER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Prahas%20Hegde&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&color=0:090B10,100:1F6FEB&fontColor=E6EDF3&animation=fadeIn" alt="Prahas Hegde — AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=PRAHAS%20HEGDE&fontSize=58&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SYSTEMS%20BUILDER%20%7C%20INNOVATOR&descAlignY=58&descSize=17&color=0:020617,45:0B1533,100:2563EB&fontColor=E2E8F0&animation=twinkling" alt="Prahas Hegde — AI Engineer" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=750&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=70&lines=Building+Intelligence+Into+Systems.;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision.;Generative+AI+%7C+RAG+%7C+Production+Engineering.;Research.+Experiment.+Engineer.+Ship." alt="Animated AI engineering introduction" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/PrahasHegde">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+intelligent+systems+with+purpose;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Turning+data+into+decisions;Research.+Experiment.+Ship." alt="AI engineer introduction" />
-  </a>
+  <a href="https://www.linkedin.com/in/prahaas-baburai-hegdae-4a2464255/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hegde.prahas@gmail.com"><img src="https://img.shields.io/badge/GMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/github/followers/PrahasHegde?label=GITHUB&style=for-the-badge&logo=github&color=111827" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PrahasHegde&style=for-the-badge&label=PROFILE%20SIGNALS&color=2563EB" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prahaas-baburai-hegdae-4a2464255/"><img src="https://img.shields.io/badge/LinkedIn-Prahas%20Hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hegde.prahas@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/github/followers/PrahasHegde?label=FOLLOW&style=for-the-badge&logo=github&color=161B22" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PrahasHegde&style=for-the-badge&label=PROFILE+VIEWS&color=1F6FEB" alt="Profile views" />
-</p>
+<br>
 
-## `> whoami`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /> // About the Engineer
+
+<table>
+<tr>
+<td width="56%" valign="top">
 
 ```python
-class PrahasHegde:
-    role = "AI Engineer"
+# initialize_engineer.py
 
-    interests = [
+prahas = {
+    "identity": "AI Engineer",
+    "mission": "Turn complex problems into intelligent systems",
+    "interests": [
         "Machine Learning",
         "Deep Learning",
         "Generative AI",
         "Computer Vision",
         "Natural Language Processing",
-    ]
-
-    mindset = "Understand deeply. Experiment quickly. Build responsibly."
-
-    def current_goal(self):
-        return "Build intelligent products that create real-world impact"
+    ],
+    "principles": [
+        "Data over assumptions",
+        "Experiment fast",
+        "Measure everything",
+        "Build responsibly",
+    ],
+    "status": "Always learning. Always shipping.",
+}
 ```
 
-I design and build AI-driven solutions with a focus on **strong fundamentals, clean engineering, and measurable outcomes**. I enjoy working across the full lifecycle—from data and experimentation to deployment and production-ready applications.
+</td>
+<td width="44%" valign="top">
 
-- 🧠 Exploring **machine learning, deep learning, and generative AI**
-- 🔬 Turning experiments into reliable, usable systems
-- 🤖 Interested in **LLMs, RAG, computer vision, and data-driven products**
-- 🤝 Open to AI engineering, research, and collaboration opportunities
+### 🧠 Currently focused on
 
-## ⚡ AI & Engineering Stack
+- Generative AI and RAG systems
+- Real-world computer vision pipelines
+- Production ML and model evaluation
+- Intelligent workflow automation
+- Scalable, reliable AI applications
+
+### 🎯 Engineer mindset
+
+> Understand deeply.<br>
+> Experiment intelligently.<br>
+> Build with purpose.<br>
+> Improve continuously.
+
+</td>
+</tr>
+</table>
+
+## ⚡ // Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask&theme=dark" alt="AI frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,postgresql,docker,git&theme=dark" alt="Data and tools" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,aws,linux&theme=dark" alt="Software stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgresql,aws&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,js&theme=dark" />
 </p>
 
-## 🚀 Featured Work
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMS-18181B?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-18181B?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMPUTER_VISION-18181B?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-18181B?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-18181B?style=flat-square&logo=pandas&logoColor=150458" />
+</p>
+
+## 🚀 // Selected Engineering Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛠️ Patch Pilot</h3>
-      <p>AI engineering project focused on helping streamline software patching workflows.</p>
-      <p><code>Python</code> <code>AI</code> <code>Automation</code></p>
-      <p><a href="https://github.com/PrahasHegde/Patch_Pilot">Explore Repository →</a></p>
+      <p><i>AI-assisted software patching and workflow automation.</i></p>
+      <p><code>PYTHON</code> <code>AI</code> <code>AUTOMATION</code></p>
+      <a href="https://github.com/PrahasHegde/Patch_Pilot"><b>EXPLORE PROJECT →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 MoneyWise</h3>
-      <p>Financial technology project built to support smarter money decisions.</p>
-      <p><code>Python</code> <code>Finance</code> <code>AI</code></p>
-      <p><a href="https://github.com/PrahasHegde/MoneyWise_junction_2026">Explore Repository →</a></p>
+      <p><i>Intelligent financial technology for smarter money decisions.</i></p>
+      <p><code>PYTHON</code> <code>FINTECH</code> <code>AI</code></p>
+      <a href="https://github.com/PrahasHegde/MoneyWise_junction_2026"><b>EXPLORE PROJECT →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 CareerForge AI</h3>
-      <p>AI-powered career project designed to support professional growth.</p>
-      <p><code>Python</code> <code>AI</code> <code>Career Tech</code></p>
-      <p><a href="https://github.com/PrahasHegde/CareerForge_AI">Explore Repository →</a></p>
+      <p><i>AI-powered tools designed to accelerate career growth.</i></p>
+      <p><code>PYTHON</code> <code>LLM</code> <code>CAREER AI</code></p>
+      <a href="https://github.com/PrahasHegde/CareerForge_AI"><b>EXPLORE PROJECT →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚽ Football Player Detection & Tracking</h3>
-      <p>Computer vision project for detecting and tracking football players.</p>
-      <p><code>Python</code> <code>Computer Vision</code> <code>Object Tracking</code></p>
-      <p><a href="https://github.com/PrahasHegde/Football_player_detection_tracking">Explore Repository →</a></p>
+      <h3>⚽ Football Player Detection</h3>
+      <p><i>Real-world player detection and tracking through computer vision.</i></p>
+      <p><code>PYTHON</code> <code>CV</code> <code>TRACKING</code></p>
+      <a href="https://github.com/PrahasHegde/Football_player_detection_tracking"><b>EXPLORE PROJECT →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>😴 Driver Drowsiness Detection</h3>
-      <p>Computer vision and CNN-based system to detect driver drowsiness.</p>
-      <p><code>Python</code> <code>CNN</code> <code>Computer Vision</code></p>
-      <p><a href="https://github.com/PrahasHegde/Driver-Drowsiness-Detection-System">Explore Repository →</a></p>
+      <p><i>CNN-powered visual safety system for drowsiness detection.</i></p>
+      <p><code>PYTHON</code> <code>CNN</code> <code>SAFETY AI</code></p>
+      <a href="https://github.com/PrahasHegde/Driver-Drowsiness-Detection-System"><b>EXPLORE PROJECT →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📚 Permission RAG</h3>
-      <p>Retrieval-Augmented Generation project centered on permission-aware knowledge access.</p>
-      <p><code>Python</code> <code>RAG</code> <code>LLMs</code></p>
-      <p><a href="https://github.com/PrahasHegde/Permission_RAG">Explore Repository →</a></p>
+      <p><i>Permission-aware retrieval for secure, context-rich AI answers.</i></p>
+      <p><code>PYTHON</code> <code>RAG</code> <code>LLM</code></p>
+      <a href="https://github.com/PrahasHegde/Permission_RAG"><b>EXPLORE PROJECT →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧭 Cost Router</h3>
-      <p>Project exploring cost-aware routing for AI and software workflows.</p>
-      <p><code>Python</code> <code>Routing</code> <code>Optimization</code></p>
-      <p><a href="https://github.com/PrahasHegde/Cost_Router">Explore Repository →</a></p>
+      <p><i>Cost-aware routing for efficient AI and software workflows.</i></p>
+      <p><code>PYTHON</code> <code>ROUTING</code> <code>OPTIMIZATION</code></p>
+      <a href="https://github.com/PrahasHegde/Cost_Router"><b>EXPLORE PROJECT →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ More Projects</h3>
-      <p>Explore my repositories for more experiments in AI, machine learning, and software engineering.</p>
-      <p><code>ML</code> <code>GenAI</code> <code>Computer Vision</code></p>
-      <p><a href="https://github.com/PrahasHegde?tab=repositories">Browse All Repositories →</a></p>
+      <h3>🌐 Explore the Full System</h3>
+      <p><i>Discover more experiments across ML, NLP, vision, and data.</i></p>
+      <p><code>DATA</code> <code>MODELS</code> <code>SOFTWARE</code></p>
+      <a href="https://github.com/PrahasHegde?tab=repositories"><b>BROWSE REPOSITORIES →</b></a>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Intelligence
+## 📊 // GitHub Intelligence
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrahasHegde&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahasHegde&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=PrahasHegde&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahasHegde&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahasHegde&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahasHegde&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrahasHegde&hide_border=true&theme=github-compact&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrahasHegde&hide_border=true&theme=tokyo-night&area=true&custom_title=PRAHAS%20HEGDE%20-%20CONTRIBUTION%20SYSTEM" />
 </p>
 
-## 🧩 Engineering Principles
+## 🧩 // Engineering Principles
 
-| Principle | How I apply it |
-|---|---|
-| **Data first** | Validate assumptions before selecting models or tools |
-| **Build with intent** | Solve a clear problem and optimize for useful outcomes |
-| **Measure everything** | Track baselines, metrics, latency, and failure modes |
-| **Ship responsibly** | Prioritize reliability, safety, and maintainability |
+```text
+DATA FIRST      ─ Measure, validate, and challenge assumptions.
+BUILD WITH INTENT ─ Solve a real problem and optimize for impact.
+DESIGN FOR SCALE  ─ Keep systems modular, observable, and maintainable.
+SHIP RESPONSIBLY  ─ Prioritize reliability, ethics, and safety.
+```
 
-## 📡 Connect
+## 📡 // Establish a Connection
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prahaas-baburai-hegdae-4a2464255/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hegde.prahas@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/badge/Github-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prahaas-baburai-hegdae-4a2464255/"><img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hegde.prahas@gmail.com"><img src="https://img.shields.io/badge/GMAIL-DIRECT_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/badge/GITHUB-FOLLOW_THE_BUILD-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090B10,100:1F6FEB" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:020617" />
 </p>
