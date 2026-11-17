@@ -56,25 +56,47 @@ I design and build AI-driven solutions with a focus on **strong fundamentals, cl
 
 ## 🚀 Featured Work
 
-> Add links to your strongest repositories below to make this section fully yours.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AI / ML Project</h3>
-      <p><b>Problem:</b> Describe the real-world problem addressed.</p>
-      <p><b>Approach:</b> Model, pipeline, and key techniques used.</p>
-      <p><b>Outcome:</b> Accuracy, latency, or impact achieved.</p>
-      <p><code>Python</code> <code>PyTorch</code> <code>Data</code></p>
-      <p><a href="https://github.com/PrahasHegde">Repository</a> · <a href="#">Live Demo</a></p>
+      <h3>💰 MoneyWise</h3>
+      <p>AI-powered financial intelligence project built for smarter money decisions.</p>
+      <p><code>Python</code> <code>AI</code> <code>Analytics</code></p>
+      <p><a href="https://github.com/PrahasHegde/MoneyWise_junction_2026">Explore Repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Generative AI Application</h3>
-      <p><b>Problem:</b> Describe an information or automation challenge.</p>
-      <p><b>Approach:</b> LLM, RAG, embeddings, or agent workflow.</p>
-      <p><b>Outcome:</b> Quality, speed, or workflow improvement.</p>
-      <p><code>LLM</code> <code>RAG</code> <code>FastAPI</code></p>
-      <p><a href="https://github.com/PrahasHegde">Repository</a> · <a href="#">Live Demo</a></p>
+      <h3>🤖 CareerForge AI</h3>
+      <p>An intelligent career platform designed to accelerate professional growth.</p>
+      <p><code>Python</code> <code>LLMs</code> <code>AI</code></p>
+      <p><a href="https://github.com/PrahasHegde/CareerForge_AI">Explore Repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Permission RAG</h3>
+      <p>Retrieval-Augmented Generation with permission-aware knowledge access.</p>
+      <p><code>RAG</code> <code>LLM</code> <code>Python</code></p>
+      <p><a href="https://github.com/PrahasHegde/Permission_RAG">Explore Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Patch Pilot</h3>
+      <p>An AI engineering project focused on automating software improvement workflows.</p>
+      <p><code>Python</code> <code>Automation</code> <code>AI</code></p>
+      <p><a href="https://github.com/PrahasHegde/Patch_Pilot">Explore Repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Small Object Detection</h3>
+      <p>Advanced object detection using SAHI for slicing-aided hyper inference.</p>
+      <p><code>Computer Vision</code> <code>Python</code> <code>SAHI</code></p>
+      <p><a href="https://github.com/PrahasHegde/smallObjectDetection-using-SAHI">Explore Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦅 RivalSense</h3>
+      <p>AI-driven competitive intelligence and insight discovery system.</p>
+      <p><code>Python</code> <code>Machine Learning</code></p>
+      <p><a href="https://github.com/PrahasHegde/Rivalsense">Explore Repository →</a></p>
     </td>
   </tr>
 </table>
@@ -108,7 +130,7 @@ I design and build AI-driven solutions with a focus on **strong fundamentals, cl
 <p align="center">
   <a href="https://www.linkedin.com/in/prahaas-baburai-hegdae-4a2464255/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hegde.prahas@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/badge/Github-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
