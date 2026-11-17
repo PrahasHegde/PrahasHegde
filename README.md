@@ -1,101 +1,116 @@
-<!-- Profile README — Prahas Hegde -->
+<!-- Prahas Hegde | AI Engineer -->
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Prahas%20Hegde&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&color=0:090B10,100:1F6FEB&fontColor=E6EDF3&animation=fadeIn" alt="Prahas Hegde — AI Engineer" />
+</p>
 
-# Hi, I'm Prahas Hegde <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="34" />
+<p align="center">
+  <a href="https://github.com/PrahasHegde">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+intelligent+systems+with+purpose;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Turning+data+into+decisions;Research.+Experiment.+Ship." alt="AI engineer introduction" />
+  </a>
+</p>
 
-### Software Developer · Builder · Problem Solver
+<p align="center">
+  <a href="https://www.linkedin.com/in/prahaas-baburai-hegdae-4a2464255/"><img src="https://img.shields.io/badge/LinkedIn-Prahas%20Hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hegde.prahas@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/github/followers/PrahasHegde?label=FOLLOW&style=for-the-badge&logo=github&color=161B22" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PrahasHegde&style=for-the-badge&label=PROFILE+VIEWS&color=1F6FEB" alt="Profile views" />
+</p>
 
-<a href="https://github.com/PrahasHegde">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Turning+ideas+into+working+products;Learning.+Building.+Shipping.;Writing+code+that+solves+real+problems" alt="Typing introduction" />
-</a>
+## `> whoami`
 
-[![GitHub followers](https://img.shields.io/github/followers/PrahasHegde?label=Followers&style=for-the-badge&logo=github&color=0D1117)](https://github.com/PrahasHegde)
-[![Profile views](https://komarev.com/ghpvc/?username=PrahasHegde&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/PrahasHegde)
+```python
+class PrahasHegde:
+    role = "AI Engineer"
 
-</div>
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "Computer Vision",
+        "Natural Language Processing",
+    ]
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> About Me
+    mindset = "Understand deeply. Experiment quickly. Build responsibly."
 
-```text
-Name       → Prahas Hegde
-Focus      → Software development and applied problem solving
-Building   → Useful applications, thoughtful interfaces, and reliable systems
-Learning   → Modern web technologies, software engineering, and clean architecture
-Goal       → Become better every day and create meaningful products
+    def current_goal(self):
+        return "Build intelligent products that create real-world impact"
 ```
 
-- 🎯 Interested in building practical, scalable software
-- 🧠 Curious about how systems work and how to improve them
-- 🤝 Open to collaboration and ambitious projects
-- 🚀 Believe the best way to learn is to build and ship
+I design and build AI-driven solutions with a focus on **strong fundamentals, clean engineering, and measurable outcomes**. I enjoy working across the full lifecycle—from data and experimentation to deployment and production-ready applications.
 
-## 🛠️ Tech Stack
+- 🧠 Exploring **machine learning, deep learning, and generative AI**
+- 🔬 Turning experiments into reliable, usable systems
+- 🤖 Interested in **LLMs, RAG, computer vision, and data-driven products**
+- 🤝 Open to AI engineering, research, and collaboration opportunities
 
-<div align="center">
+## ⚡ AI & Engineering Stack
 
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript&theme=dark)
-<br>
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,html,css&theme=dark)
-<br>
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask&theme=dark" alt="AI frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,postgresql,docker,git&theme=dark" alt="Data and tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,aws,linux&theme=dark" alt="Software stack" />
+</p>
 
-</div>
+## 🚀 Featured Work
 
-## 🚀 Featured Projects
+> Add links to your strongest repositories below to make this section fully yours.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Project One</h3>
-      <p>Describe the problem this project solves and the result it delivers.</p>
-      <p><b>Stack:</b> React · Node.js · MongoDB</p>
-      <p>
-        <a href="https://github.com/PrahasHegde/Prahas10">Source</a> ·
-        <a href="#">Live Demo</a>
-      </p>
+      <h3>🧠 AI / ML Project</h3>
+      <p><b>Problem:</b> Describe the real-world problem addressed.</p>
+      <p><b>Approach:</b> Model, pipeline, and key techniques used.</p>
+      <p><b>Outcome:</b> Accuracy, latency, or impact achieved.</p>
+      <p><code>Python</code> <code>PyTorch</code> <code>Data</code></p>
+      <p><a href="https://github.com/PrahasHegde">Repository</a> · <a href="#">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Project Two</h3>
-      <p>Describe the problem this project solves and the result it delivers.</p>
-      <p><b>Stack:</b> Python · APIs · Data</p>
-      <p>
-        <a href="https://github.com/PrahasHegde">Source</a> ·
-        <a href="#">Live Demo</a>
-      </p>
+      <h3>🤖 Generative AI Application</h3>
+      <p><b>Problem:</b> Describe an information or automation challenge.</p>
+      <p><b>Approach:</b> LLM, RAG, embeddings, or agent workflow.</p>
+      <p><b>Outcome:</b> Quality, speed, or workflow improvement.</p>
+      <p><code>LLM</code> <code>RAG</code> <code>FastAPI</code></p>
+      <p><a href="https://github.com/PrahasHegde">Repository</a> · <a href="#">Live Demo</a></p>
     </td>
   </tr>
 </table>
 
-> Replace these project descriptions with your strongest repositories for a personalized profile.
+## 📊 GitHub Intelligence
 
-## 📊 GitHub Activity
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrahasHegde&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahasHegde&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahasHegde&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrahasHegde&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahasHegde&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrahasHegde&hide_border=true&theme=github-compact&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahasHegde&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+## 🧩 Engineering Principles
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrahasHegde&hide_border=true&theme=github-compact&area=true" alt="GitHub contribution graph" />
+| Principle | How I apply it |
+|---|---|
+| **Data first** | Validate assumptions before selecting models or tools |
+| **Build with intent** | Solve a clear problem and optimize for useful outcomes |
+| **Measure everything** | Track baselines, metrics, latency, and failure modes |
+| **Ship responsibly** | Prioritize reliability, safety, and maintainability |
 
-</div>
+## 📡 Connect
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/prahaas-baburai-hegdae-4a2464255/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hegde.prahas@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PrahasHegde"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-PrahasHegde-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrahasHegde)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PrahasHegde)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
-<div align="center">
-
-### “Small progress every day becomes remarkable results.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,100:58A6FF" alt="Footer" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090B10,100:1F6FEB" alt="Footer" />
+</p>
