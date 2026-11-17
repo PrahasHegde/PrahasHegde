@@ -59,44 +59,58 @@ I design and build AI-driven solutions with a focus on **strong fundamentals, cl
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 MoneyWise</h3>
-      <p>AI-powered financial intelligence project built for smarter money decisions.</p>
-      <p><code>Python</code> <code>AI</code> <code>Analytics</code></p>
-      <p><a href="https://github.com/PrahasHegde/MoneyWise_junction_2026">Explore Repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 CareerForge AI</h3>
-      <p>An intelligent career platform designed to accelerate professional growth.</p>
-      <p><code>Python</code> <code>LLMs</code> <code>AI</code></p>
-      <p><a href="https://github.com/PrahasHegde/CareerForge_AI">Explore Repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Permission RAG</h3>
-      <p>Retrieval-Augmented Generation with permission-aware knowledge access.</p>
-      <p><code>RAG</code> <code>LLM</code> <code>Python</code></p>
-      <p><a href="https://github.com/PrahasHegde/Permission_RAG">Explore Repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🛠️ Patch Pilot</h3>
-      <p>An AI engineering project focused on automating software improvement workflows.</p>
-      <p><code>Python</code> <code>Automation</code> <code>AI</code></p>
+      <p>AI engineering project focused on helping streamline software patching workflows.</p>
+      <p><code>Python</code> <code>AI</code> <code>Automation</code></p>
       <p><a href="https://github.com/PrahasHegde/Patch_Pilot">Explore Repository →</a></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>💰 MoneyWise</h3>
+      <p>Financial technology project built to support smarter money decisions.</p>
+      <p><code>Python</code> <code>Finance</code> <code>AI</code></p>
+      <p><a href="https://github.com/PrahasHegde/MoneyWise_junction_2026">Explore Repository →</a></p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ Small Object Detection</h3>
-      <p>Advanced object detection using SAHI for slicing-aided hyper inference.</p>
-      <p><code>Computer Vision</code> <code>Python</code> <code>SAHI</code></p>
-      <p><a href="https://github.com/PrahasHegde/smallObjectDetection-using-SAHI">Explore Repository →</a></p>
+      <h3>🚀 CareerForge AI</h3>
+      <p>AI-powered career project designed to support professional growth.</p>
+      <p><code>Python</code> <code>AI</code> <code>Career Tech</code></p>
+      <p><a href="https://github.com/PrahasHegde/CareerForge_AI">Explore Repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🦅 RivalSense</h3>
-      <p>AI-driven competitive intelligence and insight discovery system.</p>
-      <p><code>Python</code> <code>Machine Learning</code></p>
-      <p><a href="https://github.com/PrahasHegde/Rivalsense">Explore Repository →</a></p>
+      <h3>⚽ Football Player Detection & Tracking</h3>
+      <p>Computer vision project for detecting and tracking football players.</p>
+      <p><code>Python</code> <code>Computer Vision</code> <code>Object Tracking</code></p>
+      <p><a href="https://github.com/PrahasHegde/Football_player_detection_tracking">Explore Repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>😴 Driver Drowsiness Detection</h3>
+      <p>Computer vision and CNN-based system to detect driver drowsiness.</p>
+      <p><code>Python</code> <code>CNN</code> <code>Computer Vision</code></p>
+      <p><a href="https://github.com/PrahasHegde/Driver-Drowsiness-Detection-System">Explore Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Permission RAG</h3>
+      <p>Retrieval-Augmented Generation project centered on permission-aware knowledge access.</p>
+      <p><code>Python</code> <code>RAG</code> <code>LLMs</code></p>
+      <p><a href="https://github.com/PrahasHegde/Permission_RAG">Explore Repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Cost Router</h3>
+      <p>Project exploring cost-aware routing for AI and software workflows.</p>
+      <p><code>Python</code> <code>Routing</code> <code>Optimization</code></p>
+      <p><a href="https://github.com/PrahasHegde/Cost_Router">Explore Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ More Projects</h3>
+      <p>Explore my repositories for more experiments in AI, machine learning, and software engineering.</p>
+      <p><code>ML</code> <code>GenAI</code> <code>Computer Vision</code></p>
+      <p><a href="https://github.com/PrahasHegde?tab=repositories">Browse All Repositories →</a></p>
     </td>
   </tr>
 </table>
